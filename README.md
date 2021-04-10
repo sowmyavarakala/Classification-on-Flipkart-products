@@ -24,8 +24,20 @@ Dataset have many columns which are unneccesary for model prediction.
 * Classifier.ipynb takes in the cleaned dataset and predicts the categories using different models.
 
 >**Naive Bayes classifier for multinomial models**
+* Naive Bayes classifier for multinomial models gave an accuracy around 90%
+*   average precision = 0.89
+*  average recall = 0.90
+*   average F1 score = 0.89
 >**DecisionTreeClassifier**
+* DecisionTreeClassifier gave an accuracy of 93%
+*   average precision = 0.94
+*  average recall = 0.94
+*   average F1 score = 0.94
 >**RandomForestClassifier**
+* RandomForestClassifier gave an accuracy of 95%
+*   average precision = 0.94
+*  average recall = 0.95
+*   average F1 score = 0.94
 
 ## Results
 
