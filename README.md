@@ -16,7 +16,7 @@ Softwares and libraries in the local machine before running this project.
 * Anaconda : It will install an ipython notebook
 * All the libraries in Requirements.txt
 
-## Models
+## Model and Results
 Before diving into model classification, have a glance at the dataset.
 Dataset have many columns which are unneccesary for model prediction.
 * preprocessing.ipynb does all the cleaning and visualization of the dataframe
@@ -39,7 +39,6 @@ Dataset have many columns which are unneccesary for model prediction.
 *  average recall = 0.95
 *   average F1 score = 0.94
 
-## Results
 
 
 
