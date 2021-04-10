@@ -39,6 +39,12 @@ Dataset have many columns which are unneccesary for model prediction.
 *  average recall = 0.94
 *   average F1 score = 0.94
 
+## References
+* https://www.kaggle.com/learn/pandas
+* https://scikit-learn.org/stable/modules/multiclass.html
+
+# Done by 
+Sowmya
 
 
 
