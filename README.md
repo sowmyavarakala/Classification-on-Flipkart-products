@@ -5,7 +5,7 @@
 ## Dataset
 I have used Flipkart-products dataset for classification of categories.
 
-https://www.kaggle.com/PromptCloudHQ/flipkart-products
+https://docs.google.com/spreadsheets/d/1pLv0fNE4WHokpJHUIs-FTVnmI9STgog05e658qEON0I/edit?usp=sharing
 
 ## Prerequisites :
 Ideal to run the files in colab(I have attached the colab file links)
