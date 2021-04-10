@@ -23,6 +23,11 @@ Dataset have many columns which are unneccesary for model prediction.
 * after all the preprocessing the final dataset with useful features is saves as flipkart_com-ecommerce_cleaned_sample.csv
 * Classifier.ipynb takes in the cleaned dataset and predicts the categories using different models.
 
+>**RandomForestClassifier**
+* RandomForestClassifier gave an accuracy of around 88%
+*   average precision = 0.87
+*  average recall = 0.87
+*   average F1 score = 0.86
 >**Naive Bayes classifier for multinomial models**
 * Naive Bayes classifier for multinomial models gave an accuracy around 90%
 *   average precision = 0.89
@@ -32,11 +37,6 @@ Dataset have many columns which are unneccesary for model prediction.
 * DecisionTreeClassifier gave an accuracy of 93%
 *   average precision = 0.94
 *  average recall = 0.94
-*   average F1 score = 0.94
->**RandomForestClassifier**
-* RandomForestClassifier gave an accuracy of 95%
-*   average precision = 0.94
-*  average recall = 0.95
 *   average F1 score = 0.94
 
 
