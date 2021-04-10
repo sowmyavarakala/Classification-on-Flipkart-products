@@ -20,7 +20,7 @@ Softwares and libraries in the local machine before running this project.
 Before diving into model classification, have a glance at the dataset.
 Dataset have many columns which are unneccesary for model prediction.
 * preprocessing.ipynb does all the cleaning and visualization of the dataframe
-* after all the preprocessing the final dataset with useful features is saves as flipkart_com-ecommerce_cleaned_sample.csv
+* after all the preprocessing the final dataset with useful features is saves as flipkart_com-ecommerce_cleaned_sample.csv(uploaded in the repo)
 * Classifier.ipynb takes in the cleaned dataset and predicts the categories using different models.
 
 >**RandomForestClassifier**
