@@ -44,7 +44,7 @@ Dataset have many columns which are unneccesary for model prediction.
 * https://scikit-learn.org/stable/modules/multiclass.html
 
 ## Done by 
-Sowmya
+sowmyavarakala
 
 
 
