@@ -1,6 +1,6 @@
 # Classification-on-Flipkart-products
 
-##### Classification of flipkart products using different machine learning algorithms.
+### Classification of flipkart products using different machine learning algorithms.
 
 ## Dataset
 I have used Flipkart-products dataset for classification of categories.
